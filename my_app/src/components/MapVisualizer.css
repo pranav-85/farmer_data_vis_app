@@ -1,0 +1,32 @@
+.map-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #121212;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    
+  }
+  
+  h2 {
+    color: #a020d2;
+    margin-bottom: 20px;
+  }
+  
+  .leaflet-popup-content {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  
+  .leaflet-popup-content h3 {
+    color: #a020d2;
+    font-size: 18px;
+  }
+  
+  .leaflet-popup-content p {
+    color: #e0e0e0;
+  }
+  

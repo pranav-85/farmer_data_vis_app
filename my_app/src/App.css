@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #121212; 
+    color: #d4a1ff;
+    font-family: 'Arial', sans-serif;
+    min-height: 100vh;
+  }
+  
+  .app-container {
+    display: flex;
+    align-items:baseline;
+    justify-content:left;
+    min-height: 100vh;
+    padding: 2em;
+  }
+  
